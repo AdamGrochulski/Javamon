@@ -1,2 +1,2 @@
 # Javamon
-Pokemon battle simulator developed in Java.
+ Battle simulator of familliar creatures, developed in Java.
